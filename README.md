@@ -1,11 +1,10 @@
 ### Hi there 👋
-- 💻 My favourite language is C++
-- 🎮 Love GameDev
+- 💻 Love C++
+- 🎮 Game Dev
 - 🎸 Local RockStar
 - 🪐 Absolutely hate web development 😅
+  
 <!--
-**Isembart/Isembart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
