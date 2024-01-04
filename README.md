@@ -1,7 +1,7 @@
 ### Hi there 👋
+- 🎸 RockStar
 - 💻 Love C++
 - 🎮 Game Dev
-- 🎸 Local RockStar
 - 🪐 Absolutely hate web development 😅
   
 <!--
