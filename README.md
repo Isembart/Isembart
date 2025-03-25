@@ -1,8 +1,5 @@
 ### Hi there 👋
-- 🎸 RockStar
-- 💻 Love C++
-- 🎮 Game Dev
-- 🪐 Absolutely hate web development 😅
+- Passion over correctness
   
 <!--
 Here are some ideas to get you started:
